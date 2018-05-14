@@ -22,7 +22,7 @@ This repo just for my documentation. source : [media.defcon.org](https://media.d
 
 
 ## Day 3
-1. From Dark Visitors to ValuedAllies: The Evolution of the Hacker Community in Asia and Around the World! Speaker: **Jayson E. Street** [Module 404]()
+1. From Dark Visitors to ValuedAllies: The Evolution of the Hacker Community in Asia and Around the World! Speaker: **Jayson E. Street** [Module PDF](https://media.defcon.org/DEF%20CON%20China%201/DEF%20CON%20China%201%20presentations/DEFCON-China-B-Jayson-E-Street-sphereny.pdf) | [PPT File](https://media.defcon.org/DEF%20CON%20China%201/DEF%20CON%20China%201%20presentations/DEFCON-China-B-Jayson-E-Street-sphereny.pptx)
 2. Hacking Intranet from Outside: Security Problems of Cross Origin Resource Sharing (CORS) Speaker: **Dr. Haixin Duan & Jianjun Chen** [Module 404]()
 3. Passwords in the Air: Harvesting Wi-Fi Credentials from SmartCfg Provisioning Speaker: **Changyu Li & Quanpu Cai** [Module 404]()
 4. I Am Groot: Examining the Guardians of Windows 10 Security Speaker: **Chuanda Ding** [Module 404]()
