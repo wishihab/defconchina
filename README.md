@@ -1,5 +1,7 @@
 # DEFCON BETA China
-This repo just for my documentation. source : [media.defcon.org](https://media.defcon.org/DEF%20CON%20China%201/) [book program](https://media.defcon.org/DEF%20CON%20China%201/DEF%20CON%20China%201%20program.pdf)
+This repo just for my documentation. source : [media.defcon.org](https://media.defcon.org/DEF%20CON%20China%201/) | [book program](https://media.defcon.org/DEF%20CON%20China%201/DEF%20CON%20China%201%20program.pdf)
+
+If you are looking for Chinese version go [here](https://media.defcon.org/DEF%20CON%20China%201/DEF%20CON%20China%201%20presentations/)
 
 ## Day 1
 1. Spreading Malware with Google (Nice Quilombo) Speaker: **Fabian Cuchietti & Gonzalo Sanchez** [Module 404]()
